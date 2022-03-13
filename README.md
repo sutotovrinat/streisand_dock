@@ -5,6 +5,8 @@ You can use the docker-hub automated build (Easy Mode), or build the image yours
 
 Sets up a container running https://github.com/jlund/streisand, meant for deploying on remote servers via API
 
+https://heroku.com/deploy
+
 ### Easy Mode
 ```
 mkdir generated-docs
